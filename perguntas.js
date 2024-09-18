@@ -1,23 +1,72 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'matematica ',
+    'Qual a raiz quadrada de 4? ',
+    'A raiz é 2 '
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual a capital da Argentina ?',
+    'A capital da Argentiina é Buenos Aires '
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'não sei ',
+    'Qual é o mais oceano do mundo?',
+    'Oceano Pacífico '
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'não sei ',
+    'Qual é a lingua mais falada no mundo?',
+    'Mandarim'
 )
+
+criaCartao(
+    'sim',
+    'Quem descobriu a América?',
+    'Cristóvão Colombo'
+)
+
+criaCartao(
+    'sim',
+    'Qual a capital da Espanha ?',
+    'Madri'
+)
+
+criaCartao(
+    'não sei ',
+    'Qual a principal  religião na Índia?',
+    'Hinduísmo '
+)
+
+criaCartao(
+    'não sei ',
+    'Qual o maior planeta do sistema solar?',
+    'Júpiter'
+
+
+
+
+criaCartao(
+    'sim',
+    'Qual a principal fonte de energia da terra?',
+    'O sol'
+)
+
+criaCartao(
+    'não sei ',
+    'Qual é a montanha mais alta da América do Sul?',
+    'Aconcágua'
+)
+
+criaCartao(
+    'não sei ',
+    'Por que o livro de matematica se suicidou?',
+    'Porque tinha muitos problemas'
+
+
+criaCartao(
+    'não sei ',
+    'Qual a cor do céu?',
+    'Azul'
