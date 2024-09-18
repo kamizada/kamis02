@@ -45,7 +45,7 @@ criaCartao(
     'Qual o maior planeta do sistema solar?',
     'Júpiter'
 
-
+)
 
 
 criaCartao(
@@ -64,9 +64,10 @@ criaCartao(
     'não sei ',
     'Por que o livro de matematica se suicidou?',
     'Porque tinha muitos problemas'
-
+)
 
 criaCartao(
     'não sei ',
     'Qual a cor do céu?',
     'Azul'
+    )
