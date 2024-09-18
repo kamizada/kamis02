@@ -47,7 +47,6 @@ criaCartao(
 
 )
 
-
 criaCartao(
     'sim',
     'Qual a principal fonte de energia da terra?',
